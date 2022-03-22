@@ -10,7 +10,7 @@
   inputs.src-compiler-v1_6_0.flake = false;
   inputs.src-compiler-v1_6_0.ref   = "refs/tags/v1.6.0";
   inputs.src-compiler-v1_6_0.owner = "nim-lang";
-  inputs.src-compiler-v1_6_0.repo  = "Nim.git";
+  inputs.src-compiler-v1_6_0.repo  = "Nim";
   inputs.src-compiler-v1_6_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
