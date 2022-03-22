@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-compiler-v1_2_4.flake = false;
+  inputs.src-compiler-v1_2_4.ref   = "refs/tags/v1.2.4";
   inputs.src-compiler-v1_2_4.owner = "nim-lang";
-  inputs.src-compiler-v1_2_4.ref   = "v1_2_4";
   inputs.src-compiler-v1_2_4.repo  = "Nim.git";
   inputs.src-compiler-v1_2_4.type  = "github";
   
