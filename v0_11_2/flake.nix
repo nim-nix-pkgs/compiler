@@ -11,6 +11,7 @@
   inputs.src-compiler-v0_11_2.ref   = "refs/tags/v0.11.2";
   inputs.src-compiler-v0_11_2.owner = "nim-lang";
   inputs.src-compiler-v0_11_2.repo  = "Nim";
+  inputs.src-compiler-v0_11_2.dir   = "";
   inputs.src-compiler-v0_11_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
