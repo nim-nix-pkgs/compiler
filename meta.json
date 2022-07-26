@@ -1457,7 +1457,6 @@
     "refs/heads/pr_support_dot",
     "refs/heads/revert-18353-araq-orc-booting",
     "refs/heads/revert-19598-pr_dotreview",
-    "refs/heads/revert-19987-mildred/emscripten-fix",
     "refs/heads/set_range_int",
     "refs/heads/snake-fixes",
     "refs/heads/spawn_for_arc",
